@@ -1,0 +1,17 @@
+.voos {
+  display: flex;
+  justify-content: center;
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 24px;
+  color: black
+}
+
+.select {
+  display: flex;
+  justify-content: center;
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 24px;
+  color: black
+}
